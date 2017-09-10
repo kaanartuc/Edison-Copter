@@ -21,3 +21,8 @@ Working Principle of Edison-Copter
 ![alt text](https://user-images.githubusercontent.com/16873223/30248283-533a13c6-962d-11e7-8eae-ded41f93111c.gif)
 
 ![alt text](https://user-images.githubusercontent.com/16873223/30248325-406d0392-962e-11e7-8cd6-496e9538e4e5.gif)
+
+This is the video: (Sorry for resolution, max was 10mb)
+
+
+![alt text](https://user-images.githubusercontent.com/16873223/30248518-c97826a0-9631-11e7-92c1-92e7716f6a0c.gif)
