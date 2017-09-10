@@ -2,7 +2,7 @@
 Quadcopter with Intel Edison based flight controller
 
 
-This is a quadcopter which is fully controlled by a flight controller system that is done with Intel Edison and necessary sensors. The quadcopter is controlled by a smart phone.
+This is a quadcopter which is fully controlled by a flight controller system that is done with Intel Edison and necessary sensors. The quadcopter is controlled by a smart phone Blynk App.
 
 Main Components
 Intel Edison, 4in1 ESC 20A, 16 channel PWM Servo Driver(Since Edison's PWM pins aren't capable of sending low duty cycles), 10-DOF sensor, 4xBrushless motors
