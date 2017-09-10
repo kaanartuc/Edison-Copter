@@ -10,7 +10,12 @@ Intel Edison, 4in1 ESC 20A, 16 channel PWM Servo Driver(Since Edison's PWM pins 
 Quadcopter System and Mobile Application
 Smart phone application gets user input data and sends this data to Intel Edison in flight controller through Wi-Fi. This data is sent to motors with help of PWM driver. When there is instability on the quadcopter system, gyro sensor involves and measures this error. We correct this measurement with PID calculations and send the error differences to motors to stabilize the system.
 
+This was our Capstone Project and it is done by Gozde Agalar, Kaan Artuc, Enis Yilmaz
+
 Working Principle of Edison-Copter
 
 
 ![alt text](https://user-images.githubusercontent.com/16873223/30248135-052aa0ee-962b-11e7-825c-f705bfb6222d.jpg)
+
+
+![alt text](https://user-images.githubusercontent.com/16873223/30248283-533a13c6-962d-11e7-8eae-ded41f93111c.gif)
